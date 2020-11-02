@@ -1,1 +1,1 @@
-# drought-hachathon
+# drought-hackathon
